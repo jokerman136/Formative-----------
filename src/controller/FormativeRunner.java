@@ -1,4 +1,4 @@
-package formative.controller;
+package controller;
 
 public class FormativeRunner
 {
